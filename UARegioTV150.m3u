@@ -1,0 +1,490 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ua-pershy-ukraine" tvg-logo="https://ukraine.mom-rsf.org/typo3temp/_processed_/b/9/csm_470-136_company_import_961d4d9e31.jpg" group-title="UA:", UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="kultura-ua" tvg-logo="https://culture.suspilne.media/inc/img/poster_culture.jpg" group-title="UA:", UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="rada-ua" tvg-logo="noimage.png" group-title="UA:", UA:Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://live-ua-tv.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="UA:", UATV
+https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-id="ua-donbas" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="ua-krym" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Крим
+http://uakrim-hls2.cosmonova.net.ua/hls/uakrim_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Запоріжжя
+https://cdn1.suspilne.media/hls/reg/zaporizhia.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Херсон
+https://cdn1.suspilne.media/hls/reg/scythia.m3u8
+
+#EXTINF:-1 tvg-id="ua-odesa" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Одеса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Харків
+http://stream.otb.com.ua/hls/otb1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Суми
+rtmp://94.179.129.54:8134/live/my_livestream
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Полтава
+https://cdn1.suspilne.media/hls/reg/ltava.m3u8
+
+#EXTINF:-1 tvg-id="vintera" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Вінниця
+https://cdn1.suspilne.media/hls/reg/vintera.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Житомир
+https://cdn1.suspilne.media/hls/reg/zhytomyr.m3u8
+
+#EXTINF:-1 tvg-id="ua-chernihiv" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Чернігів
+https://cdn1.suspilne.media/hls/reg/syver.m3u8
+
+#EXTINF:-1 tvg-id="ua-volyn" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Волинь
+https://cdn1.suspilne.media/hls/reg/nova-volyn.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Рівне
+https://cdn1.suspilne.media/hls/reg/rtb.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Хмельницький
+rtmp://gigaz.wi.com.ua/hallDemoHLS/PODILLYTV
+
+#EXTINF:-1 tvg-id="trk-bukovina" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Буковина
+http://video.intelekt.cv.ua:8066/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA:Карпати
+https://cdn1.suspilne.media/hls/reg/karpaty.m3u8
+
+#EXTINF:-1 tvg-id="tysa1" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="UA:", UA: Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="kyiv-ua" tvg-logo="noimage.png" group-title="UA:", Київ TV
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34-dnepr" tvg-logo="https://gorod.dp.ua/pic/placeimages/07/975/logo.gif" group-title="Дніпро", 34 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://divan.tv/img/global_img/channel_website/ua_596.png" group-title="Дніпро", Первый Городской Кривий Ріг
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Дніпро", Рудана
+http://live.rudana.com.ua/hls/stream_FHD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Запоріжжя", UA:Запоріжжя
+https://cdn1.suspilne.media/hls/reg/zaporizhia.m3u8
+
+#EXTINF:-1 tvg-id="tv5-zaporozhie" tvg-logo="https://tv5.zp.ua/wp-content/uploads/2017/04/TV5_logo_UA-01.png" group-title="Запоріжжя", TV5
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="z-zapor" tvg-logo="http://smartkids.zp.ua/wp-content/uploads/2017/10/MTM.png" group-title="Запоріжжя", ZTV
+https://stream.ztv.zp.ua/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="aleks-tv" tvg-logo="noimage.png" group-title="Запоріжжя", Алекс
+rtmp://94.240.131.3/live/livestream3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Запоріжжя", Енергодар
+http://oriontv.net/hls/480.m3u8
+
+#EXTINF:-1 tvg-id="ua-odesa" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Одеса", UA:Одеса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sun1-11.userapi.com/c639227/v639227583/45ae7/tw3dA0ptuXI.jpg" group-title="Одеса", Первый городской
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dumskaya" tvg-logo="http://tenet.tv/inner2/style_tv.tenet.ua/images/chimages2/19.jpg" group-title="Одеса", Думская
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ak.od.ua/wp-content/uploads/2017/01/logo_retina.png" group-title="Одеса", Академія
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7kanal-odessa" tvg-logo="http://onlines.tv/wp-content/uploads/2016/03/7.png" group-title="Одеса", 7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://reporter.od.ua/live_files/logo.png" group-title="Одеса", Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="glas-odessa" tvg-logo="noimage.png" group-title="Одеса", Глас
+http://85.238.112.69:8811/hlss/time.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", Медіа-Інфо
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="treti-cifrovoj" tvg-logo="https://tvfeed.in/cache/18/a8/18a8a09e40c1664eee8b9819582feb79.jpg" group-title="Одеса", Третий цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", Одеса
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://stv-media.tv/templates/stv/dleimages/no_image.jpg" group-title="Одеса", STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://chistopisanie.com/images/3.png" group-title="Одеса", A1
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="yuzhnaya-volna" tvg-logo="noimage.png" group-title="Одеса", Южная Волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", Olvia
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/gg/gtv_il.png" group-title="Одеса", GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://kino-filmi.net/uploads/posts/2014-11/1415174867_100-news-logo.jpg" group-title="Одеса", 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", City TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", TIC
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Одеса", Кілія
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1.bp.blogspot.com/-BXqnkrGy7QU/VCSquHgODJI/AAAAAAAAG0Y/g5apuIcKbOY/s1600/RenoMe!.jpg" group-title="Одеса", Реноме
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-firms.ners.ru/firms/e7/e764e0310888e0cdfb3079e6b4c78704.jpg" group-title="Одеса", ТВ Дом Одесса
+http://78.26.128.21:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://4.bp.blogspot.com/-2jLl6rP9uB0/UWCjNwyiHqI/AAAAAAAABXA/giDBQTC3Gvw/s1600/ont3+copy.jpg" group-title="Одеса", ОНТ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Херсон", UA:Херсон
+https://cdn1.suspilne.media/hls/reg/scythia.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Херсон", ВТВ Херсон
+rtmp://live.vtvplus.com.ua/live/online
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pp.userapi.com/c633220/v633220339/1b869/1m4G5L4qKeg.jpg" group-title="Херсон", Твій Плюс
+http://62.64.92.118:8080/Apple/1/index.m3u8
+
+#EXTINF:-1 tvg-id="xerson-plus" tvg-logo="https://khersontv.com/wp-content/themes/hueman/img/logo.png" group-title="Херсон", Херсон
+http://46.175.163.130/ks_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://khersonlive.com/wp-content/uploads/2014/09/noid-LOGOTIP_YTB-1024x942.png" group-title="Херсон", ЯТБ
+https://webcams.ks.ua/tvhls/stream2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Харків", UA:Харків
+http://stream.otb.com.ua/hls/otb1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://spreklama.com.ua/sites/default/files/imagecache/tv_logo/Simon_site.gif" group-title="Харків", Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Харків", Первомайськ
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Полтава", UA:Полтава
+https://cdn1.suspilne.media/hls/reg/ltava.m3u8
+
+#EXTINF:-1 tvg-id="misto" tvg-logo="noimage.png" group-title="Полтава", Місто
+http://109.87.224.176:8080/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Суми", UA:Суми
+rtmp://94.179.129.54:8134/live/my_livestream
+
+#EXTINF:-1 tvg-id="vintera" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Вінниця", UA:Вінниця
+https://cdn1.suspilne.media/hls/reg/vintera.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Черкаси", Антена
+http://streamer.antenna.com.ua/hls/antenna.m3u8
+
+#EXTINF:-1 tvg-id="ua-chernihiv" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Чернігів", UA:Чернігів
+https://cdn1.suspilne.media/hls/reg/syver.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Житомир", UA:Житомир
+https://cdn1.suspilne.media/hls/reg/zhytomyr.m3u8
+
+#EXTINF:-1 tvg-id="sk1" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/390420e6/4cf9a4f5_sm.png" group-title="Житомир", СК 1
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ua-volyn" tvg-logo="noimage.png" group-title="Луцьк", UA:Волинь
+https://cdn1.suspilne.media/hls/reg/nova-volyn.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Луцьк", Аверс
+http://avers.pp.ua/hls/efir.m3u8
+
+#EXTINF:-1 tvg-id="trk-bukovina" tvg-logo="noimage.png" group-title="Чернівці", Буковина
+http://video.intelekt.cv.ua:8066/live/index.m3u8
+
+#EXTINF:-1 tvg-id="tva-ua" tvg-logo="http://times.cv.ua/wp-content/uploads/2016/11/tva-chernivtsi.jpg" group-title="Чернівці", ТВА
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chern-promin" tvg-logo="http://ukrtvr.org/images/Chernivzi/chrnpr.jpg" group-title="Чернівці", Чернівецький Промінь
+http://langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1709539697/Chern_logo_400x400.jpg" group-title="Чернівці", Чернівці
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Кропивницький", Олександрія
+http://109.196.177.12:55555
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Хмельницький", UA:Хмельницький
+rtmp://gigaz.wi.com.ua/hallDemoHLS/PODILLYTV
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.frocus.net/images/logotv/original/33-kanal-hmeln.jpg" group-title="Хмельницький", 33 канал
+http://77.120.29.10/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Хмельницький", Ексклюзив
+http://excl.com.ua/hls/ex.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pp.userapi.com/c620716/v620716973/51bc/sylg1t6qbKw.jpg" group-title="Хмельницький", tv7+
+http://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Рівне", UA:Рівне
+https://cdn1.suspilne.media/hls/reg/rtb.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Тернопіль", 4TV
+http://vs35.vcdn.biz/565911f150470715ddf783b99e3d607e_megogo/live/hls/u_sid/0/o/71044361/u_uid/0/u_vod/1/u_device/embed_all/type.live/chunklist-sid1623484848-b700000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Iвано-Франківськ", UA:Карпати
+https://cdn1.suspilne.media/hls/reg/karpaty.m3u8
+
+#EXTINF:-1 tvg-id="otb-galychyna" tvg-logo="noimage.png" group-title="Iвано-Франківськ", Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="raiua" tvg-logo="https://pbs.twimg.com/profile_images/423841858687492097/oz0fun35_400x400.png" group-title="Iвано-Франківськ", РАІ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ntktv.ua/upload/iblock/d7f/img_20130523094535.jpg" group-title="Iвано-Франківськ", Калуш
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Львів", Бужнет
+http://kiev2-cdn.lanet.tv/live/9129.m3u8?key=ARqBFWwXvu82UJNx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.nta.ua/wp-content/uploads/2017/04/nta_logo_cut-300x102.png" group-title="Львів", НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="pershy-zaxidny" tvg-logo="http://1zahid.com/img/logo.png" group-title="Львів", Перший Західний
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tysa1" tvg-logo="http://1tv.com.ua/uploads/image/2017/12/08/54f6b4623c710806feca5ae77445fb2e2.jpg" group-title="Закарпаття", UA: Закарпаття
+rtmp://213.174.8.15/live/live1
+
+#EXTINF:-1 tvg-id="sirius" tvg-logo="http://big-tv.org/uploads/posts/2018-01/thumbs/1514920702_telekanal-sirius.png" group-title="Закарпаття", Sirius
+https://open-cdn.lanet.tv/live/1019.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Закарпаття", 21
+http://s9.crafit.com:8087/live/qa6pk3/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Закарпаття", М-Студіо
+http://213.174.23.59:8080/MS
+
+#EXTINF:-1 tvg-id="ua-krym" tvg-logo="noimage.png" group-title="Крим", UA:Крим
+https://cdnua01.hls.tv/hls/f656cabfabc76f85eb594e6bf6094df0/3606/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Крим", Евпатория ТВ
+http://evpatoriatv.cdnvideo.ru/li/pl.m3u8
+
+#EXTINF:-1 tvg-id="infokanal-sevastopol" tvg-logo="noimage.png" group-title="Крим", ИКС Севастополь
+http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Крим", Крым 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+
+#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="noimage.png" group-title="Крим", Первый Крымский
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Крим", 555 Aлушта
+http://trk555.tv:8888/live
+
+#EXTINF:-1 tvg-id="itv" tvg-logo="noimage.png" group-title="Крим", ИТВ
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Крим", Миллет
+http://serv25.vintera.tv:8081/millet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="noimage.png" group-title="Крим", НТС Севастополь
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atr-ua" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/dc/Original-atr.png/1200px-Original-atr.png" group-title="Крим", ATR
+https://cdnua01.hls.tv/hls/f656cabfabc76f85eb594e6bf6094df0/3936/stream.m3u8
+
+#EXTINF:-1 tvg-id="chernomorskaya" tvg-logo="https://divan.tv/img/global_img/channel_website/ua_221.png" group-title="Крим", Черноморская
+http://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ua-donbas" tvg-logo="noimage.png" group-title="Донбас", UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.segodnya.ua/img/article/6709/35_main.jpg" group-title="Донбас", Донбасс
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="donecchina-tv" tvg-logo="noimage.png" group-title="Донбас", Донеччина.TV
+http://stream.dn.ua/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Донбас", МТВ
+rtmp://31.202.208.204/live/livestream1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Донбас", Оплот ТВ HD
+http://dprtv.phoenix-dnr.ru/oplot-tv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Донбас", первый республиканский
+http://185.114.136.25/first_republic_st/first_republic_st.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Донбас", Юнион
+http://dprtv.phoenix-dnr.ru/union
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Донбас", Новороссия ТВ HD
+http://dprtv.phoenix-dnr.ru/novorossia-tv
+
+#EXTINF:-1 tvg-id="112-ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png" group-title="INFOTAINMENT UA", 112
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="rti" tvg-logo="noimage.png" group-title="INFOTAINMENT UA", 4 канал
+http://cdn.vsnw.net:8081/interradio/1080i.m3u8
+
+#EXTINF:-1 tvg-id="zik-ua" tvg-logo="https://liveam.tv/assets/images/chnl/zik-ua.png" group-title="INFOTAINMENT UA", ZIK
+http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="24news-ua" tvg-logo="https://liveam.tv/assets/images/chnl/24.png" group-title="INFOTAINMENT UA", канал 24
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+
+#EXTINF:-1 tvg-id="pravdatyt" tvg-logo="noimage.png" group-title="INFOTAINMENT UA", Правда Тут
+http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mediananny.com/content/images_new/news/620x408/157033.jpg" group-title="INFOTAINMENT UA", ПравдаТУТ Київ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mediananny.com/content/images_new/news/620x408/157033.jpg" group-title="INFOTAINMENT UA", ПравдаТУТ Львів
+http://pravdatytlviv-hls3.cosmonova.net.ua/hls/pravdatytlviv_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="atr-ua" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/dc/Original-atr.png/1200px-Original-atr.png" group-title="INFOTAINMENT UA", ATR
+http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live-cdn.lanet.tv/podcast/skrypin/cover.jpg" group-title="INFOTAINMENT UA", Skrypin.UA
+http://play.lanet.tv/live/1008.m3u8
+
+#EXTINF:-1 tvg-id="chernomorskaya" tvg-logo="https://divan.tv/img/global_img/channel_website/ua_221.png" group-title="INFOTAINMENT UA", Черноморская
+http://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://xittv.net/img/can/80.png" group-title="INFOTAINMENT UA", ЧП.Info
+http://109.68.40.67/life/magnolia.m3u8
+
+#EXTINF:-1 tvg-id="hromadske" tvg-logo="https://sat-tv.cn.ua/ssl/u/pic/a9/2d289cf98e11e4bb02d26c831bbbb0/-/16480.png" group-title="INFOTAINMENT UA", Громадське ТБ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="maxxi-tv" tvg-logo="https://sputnikovoetv.com.ua/uploads/posts/2012-04/1333273241_maxxi-tv.jpg" group-title="INFOTAINMENT UA", наш
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="pervy-delovoy" tvg-logo="http://isponline.com.ua/upload/image/tv/6ba886e93291fd96ab233b76f546a2f3.jpg" group-title="INFOTAINMENT UA", Перший діловий
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ua" tvg-logo="https://www.5.ua/img/logo/original.png" group-title="INFOTAINMENT UA", 5 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+
+#EXTINF:-1 tvg-id="espreso-tv" tvg-logo="https://espreso.tv/themes/novyny/assets/images/footer_logo.png" group-title="INFOTAINMENT UA", Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="tonis" tvg-logo="https://liveam.tv/assets/images/chnl/prm.png" group-title="INFOTAINMENT UA", Прямий
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="INFOTAINMENT UA", АКЦ Киев
+http://91.239.232.114:1935/live/source/chunklist_w318329342.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="INFOTAINMENT UA", Голос Столицы
+http://rtmp.radiogroup.com.ua:8080/live/gs/index.m3u8
+
+#EXTINF:-1 tvg-id="brain-tv" tvg-logo="https://divan.tv/img/global_img/channel_website/int_750.png" group-title="EDUCATIONAL UA", Brain TV
+http://jabber.divan.tv:8002/tv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Ланет Brain
+http://play.lanet.tv/live/2007.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Ланет Live
+http://play.lanet.tv/live/2008.m3u8
+
+#EXTINF:-1 tvg-id="eko-tv" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/ce60bff7/38a09aae_sm.png" group-title="EDUCATIONAL UA", Еко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+
+#EXTINF:-1 tvg-id="krt-ua" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Ланет Трейлер
+http://play.lanet.tv/live/2001.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Архат
+http://arhat.tv/public/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Перший козацький
+rtmp://217.20.182.229/live/livestream
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Lekaris TV
+http://w4.mostvideo.tv/heltv/ch2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="maliatko-tv" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Cars and Stars
+http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="sonce-ua" tvg-logo="noimage.png" group-title="EDUCATIONAL UA", Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+
+#EXTINF:-1 tvg-id="o-tv" tvg-logo="http://tortv.at.ua/_nw/0/99350855.png" group-title="MUSIC UA", O TV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Наше Радио [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/nr/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Kiss fm
+http://tavr.web-event.com.ua/kiss/smil:kiss.smil/chunklist_b2628000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Джем fm
+http://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Радио NRJ [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Радио Пятница
+http://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Ретро FM
+http://rtmp.radiogroup.com.ua:8080/live/retro/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Пульсар
+rtmp://78.154.164.191:19350/Pulsar/forever
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC UA", Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mostvideo" tvg-logo="http://s4.vcdn.biz/static/f/670788041/image.jpg" group-title="SPORT UA", MostVideo
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1 tvg-id="xsport-ua" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/e57224f5/c7dcadfc_med.png" group-title="SPORT UA", Xsport
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="trofey-hd" tvg-logo="http://xittv.net/img/can/25.png" group-title="SPORT UA", Трофей
+http://str.trofey.net:1935/live/2_max.smil/chunklist_b4000000.m3u8?id=2&session=1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.nalench.com/uploads/screenshots/cnl_ukraine.jpg" group-title="RELIGION UA", CNL
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+
+#EXTINF:-1 tvg-id="ewtn-ua" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/e4/ba/32/e4ba32de-b605-65f7-c940-1c2ccade5c81/source/512x512bb.jpg" group-title="RELIGION UA", EWTN UA
+http://bogtvhdlive-f.akamaihd.net/main_1_400@79148?v=2.9.4&fp=WIN%2016,0,0,257&r=DIQLE&g=YMULUMYIOWWK
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://is2.mzstatic.com/image/thumb/Purple111/v4/61/fa/2e/61fa2ed5-543b-f537-a7bb-7bea114435b0/source/1200x630bf.jpg" group-title="RELIGION UA", Возрождение
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+
+#EXTINF:-1 tvg-id="glas" tvg-logo="https://multitv.com.ua/wp-content/uploads/2016/04/glas-810x452.png" group-title="RELIGION UA", Глас
+rtmp://gigaz.wi.com.ua/hallDemo/glassua
+
+#EXTINF:-1 tvg-id="nadia" tvg-logo="http://adventisty.ru/images/logo_hope.jpg" group-title="RELIGION UA", Надiя
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="krt-ua" tvg-logo="http://images.viaway.com/6694180_640.png" group-title="RELIGION UA", КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
+
